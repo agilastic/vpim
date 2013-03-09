@@ -1,3 +1,4 @@
+# encoding: UTF-8
 # Copyright (c) 2008 The Kaphan Foundation
 #
 # For licensing information see LICENSE.txt.

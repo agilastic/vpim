@@ -1,3 +1,4 @@
+# encoding: UTF-8
 #--
 ##############################################################
 # Copyright 2006, Ben Bleything <ben@bleything.net> and      #
